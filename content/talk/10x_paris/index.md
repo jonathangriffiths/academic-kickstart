@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "10x Genomics User Group Meeting"
+title: "10x Genomics User Group Meeting - Cambridge"
 event:
 event_url:
-location: Intitut Pasteur
+location: Institut Pasteur
 address:
   street:
   city: Paris

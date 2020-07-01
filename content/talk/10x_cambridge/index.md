@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "10x Genomics User Group Meeting"
+title: "10x Genomics User Group Meeting - Paris"
 event:
 event_url:
 location:
 address:
   street:
-  city:
+  city: Cambridge
   region:
   postcode:
-  country:
+  country: UK
 summary: How the large scale of emerging 10x Genomics single-cell RNA-sequencing data rendered contemporary analysis techniques intractable, and a summary of novel methods to overcome the problem.
 abstract:
 
