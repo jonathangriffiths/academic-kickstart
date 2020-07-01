@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Themes"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,22 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = ""  
+  
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Genomics"
+  description = ""
+
+[[feature]]
+  icon = "project-diagram"
+  icon_pack = "fas"
+  name = "Single-cell methods"
+  description = ""
+
+[[feature]]
+  icon = "open-access"
+  icon_pack = "ai"
+  name = "Data sharing"
+  description = ""
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
+  description = ""
+
 [[feature]]
-  icon = "chart-line"
+  icon = "coffee"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Espresso"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -43,9 +61,9 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # [[feature]]
-#  icon = "your-custom-icon-name"
+#  icon = "disease-solid"
 #  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+#  name = "Single-cell"
+#  description = ""
 
 +++
