@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = ""
   description = """
-  Combining my genomic, genetic, and biology expertise to identify new targets for therapeutic intervention.
+  Combining my expertise across machine learning, statistics, genomics and biology to identify new targets for therapeutic intervention.
   """
 
 [[experience]]
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2019-09-01"
   description = """
-  Method development for single-cell RNAseq data, and analysis of mouse embryonic development using single-cell RNAseq.
+  Method development for single-cell RNAseq data, and analysis of a landmark mouse embryonic development atlas.
   """
 
 +++

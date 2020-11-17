@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Statistics/machine learning"
   description = ""  
   
 [[feature]]
