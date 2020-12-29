@@ -24,7 +24,6 @@ interests:
 - Functional genomics
 - Machine learning
 - Single-cell data & methods
-- Answering meaningful biological questions
 
 education:
   courses:
