@@ -22,8 +22,9 @@ bio:
 
 interests:
 - Functional genomics
-- Therapeutics
-- Single-cell methods
+- Machine learning
+- Single-cell data & methods
+- Answering meaningful biological questions
 
 education:
   courses:
@@ -70,8 +71,12 @@ user_groups:
 - Visitors
 ---
 
-I'm a computational biologist currently working in the therapeutics arm of Genomics plc.
-I have combined an undergraduate education in cell biology with quantitative genomic skills acquired in my PhD, alongside an understanding of statistical genetics that I am learning at Genomics plc.
-This provides me with an integrative and diverse set of skills to understand biological processes from modern, high-throughput datasets.
+I am a quantitative biologist motivated by solving challenging problems, whose
+solutions positively impact human health.
+I have extensive experience across biology, genomics, statistics, and machine learning domains, both in academic and commercial settings.
 
-My PhD work was based in the Marioni lab in Cambridge, funded by the Wellcome Mathematical Genomics and Medicine program. I developed methods for single-cell RNA-sequencing data, and also led analyses around the generation of a single-cell RNA-seq atlas of mouse gastrulation.
+I am currently working in the therapeutics arm of Genomics plc.
+I apply my integrative and diverse set of skills to understand biological processes from a broad range of modern, high-throughput datasets to identify opportunities for therapeutic intervention.
+
+During my PhD, I worked on methodology for analysing single-cell RNA-sequencing data, and led the analysis of a landmark scRNA-seq dataset of mouse embryonic development. 
+My PhD was funded by Wellcome, in the Marioni lab (Cambridge UK).
