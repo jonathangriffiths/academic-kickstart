@@ -13,6 +13,9 @@ authors:
 - Valerie Wilson
 - Berthold Göttgens
 - John C. Marioni
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
 - '"neuromesodermal progenitors"'
 - '"Brachyury"'

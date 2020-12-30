@@ -10,14 +10,10 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: false
-  
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree: 
-      id: jonathangriffiths.github.io
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
+      id: jonathan.griffiths.94@gmail.com
+      captcha: true
 ---

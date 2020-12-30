@@ -68,6 +68,9 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I am a quantitative biologist motivated by solving challenging problems, whose
